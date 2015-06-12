@@ -1,0 +1,22 @@
+[
+  {
+    "outputFile": "css/bootstrap-flat-extras.css",
+    "inputFile": "sass/bootstrap-flat-extras.scss",
+    "minify": {
+      "enabled": true
+    },
+    "includeInProject": true,
+    "sourceMap": false,
+    "options": {}
+  },
+  {
+    "outputFile": "css/bootstrap-flat.css",
+    "inputFile": "sass/bootstrap-flat.scss",
+    "minify": {
+      "enabled": true
+    },
+    "includeInProject": true,
+    "sourceMap": false,
+    "options": {}
+  }
+]
